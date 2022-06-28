@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/stephenc/Desktop/cs/CHEUNG_Kam-Man-Project-Space/Surveying Analysis Tool'
+g++ -pedantic-errors -std=c++20 main.cpp -o Tool
+./Tool
+rm -f Tool
+make: Leaving directory `/Users/stephenc/Desktop/cs/CHEUNG_Kam-Man-Project-Space/Surveying Analysis Tool'
+ 

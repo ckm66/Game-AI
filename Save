@@ -1,0 +1,12 @@
+bool Headroom_Adajustor(std::vector<Trade_Record>::iterator Reference_Flat, std::vector<Trade_Record>::iterator Comparation_Flat, double &Factor_Sum)
+{
+    if (Reference_Flat->Headroom != Comparation_Flat->Headroom)
+    {
+        if (Factor.Headroom_Cofficiency == false)
+        {
+            return false;
+        }
+        Factor_Sum += ((Reference_Flat->Headroom - Comparation_Flat->Headroom) * Factor.Headroom_Cofficiency);
+    }
+    return true;
+}
