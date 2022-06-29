@@ -2,7 +2,7 @@
 
 ## Progress Bar
 
-- [ ]
-- [ ]
-- [ ] Web Vision Creation
+- [x] C++ Program 
+- [ ] Computer Software
+- [ ] Web Vision 
 
