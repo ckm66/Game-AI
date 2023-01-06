@@ -1,8 +1,9 @@
 # Surveying Analysis Tool
+The Project served as a tool to assist survey in completing their valuation.
 
 ## Progress Bar
-This Surveying Analysis Tool will be developed into three different version and correspoding stages
-- [x] C++ Program (Written in C++)
-- [ ] Computer Software (Written in Java)
-- [ ] Web Vision 
+This Project is currently under transformation from C++ to Python 
+- [x] Logic
+- [x] Complete in C++
+- [ ] Transform to Python
 
